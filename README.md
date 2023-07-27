@@ -4,7 +4,7 @@
 
 To download the specific tagged release, run:
 ```bash
-go get github.com/hongyukeji/go-utils@v1.0.0
+go get -u github.com/hongyukeji/go-utils@v1.0.0
 ```
 Import it in your program as:
 ```go
